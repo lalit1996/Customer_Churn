@@ -121,16 +121,3 @@ print('Test accuracy:', test_acc)
 print('Confusion matrix:\n', conf)
 ```
 
-## License
-
-This example is provided for educational purposes. Add a license file (for example, MIT) if you intend to open-source it.
-
----
-
-If you'd like, I can:
-
-* Generate a `requirements.txt` file for you.
-* Update the code to fix the `Prediction()` method and improve dtype detection.
-* Convert the categorical pipeline to use `OneHotEncoder` instead of `OrdinalEncoder`.
-
-Tell me which of the above you'd like next.
